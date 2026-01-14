@@ -4,7 +4,7 @@
 **FULL-STACK SOFTWARE ENGINEER & SYSTEMS ARCHITECT**
 
 [![Website](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burak-yavuz-785452378/)
-[![Portfolio](https://img.shields.io/badge/EMAIL-CONTACT-000000?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:info@teknovial.fun)
+[![Portfolio](https://img.shields.io/badge/EMAIL-CONTACT-000000?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:noreply@teknovial.fun)
 [![GitHub](https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/burak-yavuzz)
 
 ---
