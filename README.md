@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burak-yavuz-785452378/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/burak-yavuzz)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:noreply@teknovial.fun)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:noreply@buravo.fun)
 
 ---
 
@@ -36,9 +36,9 @@
 
 *Modern tools for modern problems. I focus on frameworks that drive performance and professional user experience.*
 
-*   **Backend Engineering:** C# · .NET Core · ASP.NET API · Laravel · PHP · Python
-*   **Frontend Engineering:** TypeScript · Vue.js · Next.js · React · Tailwind CSS
-*   **Infrastructure & Data:** PostgreSQL · MSSQL · Redis · Docker · SignalR (Real-Time)
+*   **Backend Engineering:** C# · .NET Core · ASP.NET API · Laravel · PHP 
+*   **Frontend Engineering:** TypeScript · Vue.js · Next.js · React · Tailwind CSS · Bootstrap
+*   **Infrastructure & Data:** PostgreSQL · MSSQL · MYSQL · Docker
 *   **Methodology:** TDD · CI/CD Pipelines · Asynchronous Web Standards
 
 ---
